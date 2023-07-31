@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__
+__pycache__/
+
+InventoryImportApp/data_sample
+InventoryImportApp/data
+
+data_sample
+data
+.env
+*.cvs
+*.zip
+*.lnk
+

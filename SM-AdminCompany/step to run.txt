@@ -1,0 +1,8 @@
+1.run Run-JupyterLab_To_Process.bat to open jupyter lab on chrome brownser.
+
+2. open  file 1-ImportAdminCompany.ipynb   and check file NonSM_CustomerPM_{datetime}.xlsx 
+3. run all cell
+4. check file 1-NewAdminCompany.csv
+
+
+5. run  2-AddReferencDataOfCompany.ipynb  
