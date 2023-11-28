@@ -2,7 +2,8 @@
 .ipynb_checkpoints/
 __pycache__
 __pycache__/
-
+.idea
+.idea/
 InventoryImportApp/data_sample
 InventoryImportApp/data
 
