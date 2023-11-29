@@ -1,7 +1,7 @@
 # About
 There are serveral modules, all of them have been developed to support [SMartApp](https://github.com/technqvi/SMartApp) System.
 
-### [PMToDoNotification](https://github.com/technqvi/SMartApp_ScriptDev/tree/main/PMToDoNotification)
+### [Notify Monthly PM To Admin](https://github.com/technqvi/SMartApp_ScriptDev/blob/main/PMToDoNotification/notify_monthly_pm.ipynb)
 * Notify all PM Tasks to Admin so that Admin can break down these PMs to team leads who are in charge of each PM task to complete by a given month.
 * Notify the remaining  PM Tasks that have not been completed yet by that month.
 ### [SMart_SiteGrade_Report](https://github.com/technqvi/SMartApp_ScriptDev/tree/main/SMart_SiteGrade_Report)
