@@ -1,9 +1,10 @@
 # About
 There are serveral modules, all of them have been developed to support [SMartApp](https://github.com/technqvi/SMartApp) System.
 
-### [Notify Monthly PM To Admin](https://github.com/technqvi/SMartApp_ScriptDev/blob/main/PMToDoNotification/notify_monthly_pm.ipynb)
-* Notify all PM Tasks to Admin so that Admin can break down these PMs to team leads who are in charge of each PM task to complete by a given month.
-* Notify the PM Tasks that have not been completed yet by that month.
+### [Notify Monthly PM To Admin/Team lead](https://github.com/technqvi/SMartApp_ScriptDev/blob/main/PMToDoNotification)
+* [notify_monthly_pm.ipynb](https://github.com/technqvi/SMartApp_ScriptDev/blob/main/PMToDoNotification/notify_monthly_pm.ipynb) :Notify all PM Tasks to Admin so that Admin can break down these PMs to team leads who are in charge of each PM task to complete by a given month.
+*[notify_incomplete_pm.ipynb](https://github.com/technqvi/SMartApp_ScriptDev/blob/main/PMToDoNotification/notify_incomplete_pm.ipynb): Notify the PM Tasks to team lead that have not been completed yet by that month.
+
 ### [SMart_SiteGrade_Report](https://github.com/technqvi/SMartApp_ScriptDev/tree/main/SMart_SiteGrade_Report)
 * Retrieve the following data such as storage, server,	software, network,	incident case, and request case of each company that Site managers are in charge of.
 * Take data to calculate the score and weight as the level of given ranges to find rank
